@@ -1,4 +1,4 @@
-import { prisma } from "../src/server/db/client";
+import { prisma } from "../../src/server/db/client";
 
 // export const revalidate = 10;
 
